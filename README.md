@@ -1,13 +1,35 @@
+---
 # 🐼 Pandas Learning Hub: Interactive Data Manipulation Tutorial
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://masteringdatamanipulationwithpandas-hdskjthujlbfjtt8faw4gn.streamlit.app/)
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Pandas](https://img.shields.io/badge/pandas-v2.0+-green.svg)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Master Data Manipulation with Pandas through Interactive Learning**
 
-An comprehensive, interactive Streamlit application designed to teach data manipulation using Pandas through hands-on exercises, real-world examples, and immediate visual feedback.
+A comprehensive, interactive Streamlit application designed to teach data manipulation using Pandas through hands-on exercises, real-world examples, and immediate visual feedback.
+
+---
+
+## 🚀 Launch the App
+
+<div align="center">
+
+<a href="https://masteringdatamanipulationwithpandas-hdskjthujlbfjtt8faw4gn.streamlit.app/" target="_blank" style="text-decoration:none;">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" height="35">
+</a>
+
+<br><br>
+
+<a href="https://masteringdatamanipulationwithpandas-hdskjthujlbfjtt8faw4gn.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Launch%20App-Streamlit-green?logo=streamlit&logoColor=white&labelColor=black&style=for-the-badge" alt="Launch App" style="margin-top: 12px; margin-bottom: 12px;"/>
+</a>
+
+</div>
+
+You can **visit the live app here**:  
+[https://masteringdatamanipulationwithpandas-hdskjthujlbfjtt8faw4gn.streamlit.app/](https://masteringdatamanipulationwithpandas-hdskjthujlbfjtt8faw4gn.streamlit.app/)
 
 ---
 
@@ -240,31 +262,6 @@ st.markdown("""
 
 ---
 
-## 🚀 Deployment Options
-
-### **Streamlit Cloud** (Recommended)
-1. Push code to GitHub
-2. Connect repository to [Streamlit Cloud](https://streamlit.io/cloud)
-3. Deploy with one click
-
-### **Local Development**
-```bash
-# Development mode with auto-reload
-streamlit run pandas_learning_app.py --server.runOnSave true
-```
-
-### **Docker Deployment**
-```dockerfile
-FROM python:3.9-slim
-COPY . /app
-WORKDIR /app
-RUN pip install -r requirements.txt
-EXPOSE 8501
-CMD ["streamlit", "run", "pandas_learning_app.py"]
-```
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
@@ -296,29 +293,6 @@ streamlit run pandas_learning_app.py
 # Submit pull request
 ```
 
-### **Contribution Guidelines**
-- Follow PEP 8 style guidelines
-- Add tests for new features
-- Update documentation for changes
-- Keep commits focused and descriptive
-
----
-
-## 📈 Performance & Analytics
-
-### **Performance Metrics**
-- **Load Time:** < 2 seconds initial load
-- **Memory Usage:** < 100MB typical usage
-- **Responsiveness:** Real-time code execution
-- **Scalability:** Supports 1000+ concurrent users
-
-### **Usage Analytics**
-- Track learning module completion rates
-- Monitor most popular examples
-- Measure user engagement time
-- Collect feedback on difficulty levels
-
----
 
 ## 🔗 Related Projects
 
@@ -341,7 +315,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Yasser Albogami
+Copyright (c) 2025 Yasser Albogami
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -361,7 +335,7 @@ copies or substantial portions of the Software.
 **Yasser Albogami**
 - 🐙 GitHub: [@YasserAlbogami](https://github.com/YasserAlbogami)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/yasseralbogami)
-- 📧 Email: yasser.albogami@example.com
+- 📧 Email: yasserayalbogami@gmail.com
 
 ---
 
@@ -389,7 +363,7 @@ copies or substantial portions of the Software.
 
 ### 🚀 Ready to Master Pandas?
 
-[**Launch App**](https://your-app-url.streamlit.app) | [**View Source**](https://github.com/YasserAlbogami/data_persona) | [**Report Bug**](https://github.com/YasserAlbogami/data_persona/issues)
+[**Launch App**](https://masteringdatamanipulationwithpandas-hdskjthujlbfjtt8faw4gn.streamlit.app/) | [**View Source**](https://github.com/YasserAlbogami/data_persona) | [**Report Bug**](https://github.com/YasserAlbogami/data_persona/issues)
 
 **Happy Learning! 🐼📊**
 
